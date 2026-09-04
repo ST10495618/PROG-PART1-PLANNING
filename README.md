@@ -16,3 +16,5 @@ The Organiser is responsible for managing racing events. An organiser can:
 4.Manage event categories.
 5.View participants enrolled in an event.
 6.Add and manage race results.
+7.Add route information for events.
+8.Add weather information for events.
