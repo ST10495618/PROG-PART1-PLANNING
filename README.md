@@ -41,3 +41,6 @@ Participant	View events, enrol in events, cancel enrolments, manage their profil
 Participants cannot create, update, or delete events because those functions are reserved for organisers.
 <img width="1920" height="1080" alt="Screenshot (495)" src="https://github.com/user-attachments/assets/32808570-a507-460e-8eb3-830a73b693c1" />
 
+
+YOUTUBE LINK
+https://youtu.be/UOztcA6TJqw
