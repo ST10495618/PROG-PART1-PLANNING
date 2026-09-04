@@ -30,3 +30,7 @@ The Participant is a user who takes part in racing events. A participant can:
 5.Enrol in an event.
 6.Cancel an enrolment.
 7.View their own enrolments.
+8.View their race results.
+9.Manage their own profile.
+
+Participants cannot create, update, or delete events because those functions are reserved for organisers.
