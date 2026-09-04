@@ -21,7 +21,7 @@ The Organiser is responsible for managing racing events. An organiser can:
 
 The organiser has permission to perform administrative operations that are not available to participants.
 
-2. Participant
+2. Participants
 The Participant is a user who takes part in racing events. A participant can:
 1.Register an account.
 2.Log in to the system.
