@@ -33,4 +33,9 @@ The Participant is a user who takes part in racing events. A participant can:
 8.View their race results.
 9.Manage their own profile.
 
+Role Summary
+Role	Main Responsibilities
+Organiser	Create and manage events, categories, enrolments, results, routes and weather information.
+Participant	View events, enrol in events, cancel enrolments, manage their profile and view their results.
+
 Participants cannot create, update, or delete events because those functions are reserved for organisers.
