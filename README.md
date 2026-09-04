@@ -26,3 +26,7 @@ The Participant is a user who takes part in racing events. A participant can:
 1.Register an account.
 2.Log in to the system.
 3.View available events.
+4.View event details.
+5.Enrol in an event.
+6.Cancel an enrolment.
+7.View their own enrolments.
